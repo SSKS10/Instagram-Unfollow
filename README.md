@@ -1,4 +1,4 @@
-# Instagram-Revert-Follow-Request-Sent-Using-Python
+# Instagram-Unsend-Follow-Request-Using-Python
 Revert follow request sent on Instagram meta data downloaded in the form of JSON.
 
 If you are worried and not sure how many follow request you have sent to instagram user. There can be hundreds or thousand of such requests and reverting them is a tedious and time taking job. Here is a simple python code which you can utilise to revert them using web scrapping.
